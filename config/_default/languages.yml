@@ -1,0 +1,15 @@
+en:
+  contentDir: content/en
+  languageName: ':gb:'
+  languageCode: en
+  weight: 2
+  params:
+    languageAltTitle: English
+
+de:
+  contentDir: content/de
+  languageName: ':de:'
+  languageCode: de
+  weight: 1
+  params:
+    languageAltTitle: German

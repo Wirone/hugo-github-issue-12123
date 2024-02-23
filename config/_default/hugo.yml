@@ -1,0 +1,5 @@
+theme: papermod
+
+permalinks:
+  posts: '/:year/:month/:slug/'
+  pages: '/:slug/'
